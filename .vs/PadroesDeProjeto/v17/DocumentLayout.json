@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\objects\\model\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:objects\\model\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\objects\\enum\\frete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:objects\\enum\\frete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\services\\statepedido\\aguardandopagamentostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\statepedido\\aguardandopagamentostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\services\\statepedido\\canceladostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\statepedido\\canceladostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\services\\statepedido\\enviadostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\statepedido\\enviadostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\services\\statepedido\\pagostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\statepedido\\pagostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\services\\statepedido\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\statepedido\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\padroesdeprojeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:padroesdeprojeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Services\\statePedido\\State.cs",
+              "RelativeDocumentMoniker": "Services\\statePedido\\State.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Services\\statePedido\\State.cs",
+              "RelativeToolTip": "Services\\statePedido\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:53:43.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CanceladoState.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Services\\statePedido\\CanceladoState.cs",
+              "RelativeDocumentMoniker": "Services\\statePedido\\CanceladoState.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Services\\statePedido\\CanceladoState.cs",
+              "RelativeToolTip": "Services\\statePedido\\CanceladoState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T02:08:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagoState.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Services\\statePedido\\PagoState.cs",
+              "RelativeDocumentMoniker": "Services\\statePedido\\PagoState.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Services\\statePedido\\PagoState.cs",
+              "RelativeToolTip": "Services\\statePedido\\PagoState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T02:08:06.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnviadoState.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Services\\statePedido\\EnviadoState.cs",
+              "RelativeDocumentMoniker": "Services\\statePedido\\EnviadoState.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Services\\statePedido\\EnviadoState.cs",
+              "RelativeToolTip": "Services\\statePedido\\EnviadoState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T02:07:57.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AguardandoPagamentoState.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Services\\statePedido\\AguardandoPagamentoState.cs",
+              "RelativeDocumentMoniker": "Services\\statePedido\\AguardandoPagamentoState.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Services\\statePedido\\AguardandoPagamentoState.cs",
+              "RelativeToolTip": "Services\\statePedido\\AguardandoPagamentoState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T02:06:11.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Objects\\Model\\Pedido.cs",
+              "RelativeDocumentMoniker": "Objects\\Model\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Objects\\Model\\Pedido.cs",
+              "RelativeToolTip": "Objects\\Model\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:56:19.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frete.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Objects\\Enum\\Frete.cs",
+              "RelativeDocumentMoniker": "Objects\\Enum\\Frete.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Objects\\Enum\\Frete.cs",
+              "RelativeToolTip": "Objects\\Enum\\Frete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:53:29.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PadroesDeProjeto.csproj",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\PadroesDeProjeto.csproj",
+              "RelativeDocumentMoniker": "PadroesDeProjeto.csproj",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\PadroesDeProjeto.csproj",
+              "RelativeToolTip": "PadroesDeProjeto.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T01:51:38.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T01:45:53.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:44:55.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T01:44:49.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
