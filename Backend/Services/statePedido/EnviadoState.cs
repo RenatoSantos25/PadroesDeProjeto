@@ -6,32 +6,25 @@ using System.Threading.Tasks;
 using State_Solution_2.domains.state;
 using State_Solution_2.domains;
 using PadroesDeProjeto.Objects.Model;
+using TrabalhoDesignPatterns.WebAPI.Services.States;
 
 namespace State_Solution_2.domains.state
 {
-    public class EnviadoState : State
-    {
-        private Pedido pedido;
+	public class EnviadoState : IPedidoState
+	{
+		public IPedidoState CancelarPedido()
+		{
+			throw new Exception("Operação não suportada, o pedido já foi enviado");
+		}
 
-        public EnviadoState(Pedido pedido)
-        {
-            this.pedido = pedido;
-        }
+		public IPedidoState DespacharPedido()
+		{
+			throw new Exception("Operação não suportada, o pedido já foi enviado");
+		}
 
-        void State.cancelarPedido()
-        {
-            throw new Exception("Operacao não suportada, pedido já foi enviado");
-        }
-
-        void State.despacharPedido()
-        {
-            throw new Exception("Operacao não suportada, pedido já foi enviado");
-        }
-
-        void State.sucessoAoPagar()
-        {
-            throw new Exception("Operacao não suportada, pedido já foi enviado");
-        }
-    }
-
+		public IPedidoState SucessoAoPagar()
+		{
+			throw new Exception("Operação não suportada, o pedido já foi enviado");
+		}
+	}
 }

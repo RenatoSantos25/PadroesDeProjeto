@@ -7,32 +7,25 @@ using System.Threading.Tasks;
 
 using PadroesDeProjeto.Objects.Model;
 using State_Solution_2.domains.state;
+using TrabalhoDesignPatterns.WebAPI.Services.States;
 namespace PadroesDeProjeto
 {
-    internal class AguardandoPagamentoState : State
-    {
-        private Pedido pedido;
+	public class AguardandoPagamentoState : IPedidoState
+	{
+		public IPedidoState CancelarPedido()
+		{
+			return new CanceladoState();
+		}
 
-        public AguardandoPagamentoState(Pedido pedido)
-        {
-            this.pedido = pedido;
-        }
+		public IPedidoState DespacharPedido()
+		{
+			throw new Exception("Operação não suportada, " +
+				"o pedido ainda não foi pago");
+		}
 
-        void State.cancelarPedido()
-        {
-            //  this.pedido.estadoAtual = new CanceladoState(pedido);
-        }
-
-        void State.despacharPedido()
-        {
-            throw new Exception("Operacao não suportada, " +
-                                "pedido ainda não foi pago");
-        }
-
-        void State.sucessoAoPagar()
-        {
-        //    this.pedido.estadoAtual = new PagoSate(pedido);
-        }
-    }
-
+		public IPedidoState SucessoAoPagar()
+		{
+			return new PagoState();
+		}
+	}
 }

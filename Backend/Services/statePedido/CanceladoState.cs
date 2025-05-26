@@ -6,32 +6,26 @@ using System.Text;
 using System.Threading.Tasks;
 using State_Solution_2.domains;
 using PadroesDeProjeto.Objects.Model;
+using TrabalhoDesignPatterns.WebAPI.Services.States;
 
 namespace State_Solution_2.domains.state
 {
-    public class CanceladoState : State
-    {
-        private Pedido pedido;
+	public class CanceladoState : IPedidoState
+	{
+		public IPedidoState CancelarPedido()
+		{
+			throw new Exception("Operação não suportada, o pedido foi cancelado");
+		}
 
-        public CanceladoState(Pedido pedido)
-        {
-            this.pedido = pedido;
-        }
+		public IPedidoState DespacharPedido()
+		{
+			throw new Exception("Operação não suportada, o pedido foi cancelado");
+		}
 
-        void State.cancelarPedido()
-        {
-            throw new Exception("Operacao não suportada, pedido foi cancelado");
-        }
-
-        void State.despacharPedido()
-        {
-            throw new Exception("Operacao não suportada, pedido foi cancelado");
-        }
-
-        void State.sucessoAoPagar()
-        {
-            throw new Exception("Operacao não suportada, pedido foi cancelado");
-        }
-    }
+		public IPedidoState SucessoAoPagar()
+		{
+			throw new Exception("Operação não suportada, o pedido foi cancelado");
+		}
+	}
 
 }

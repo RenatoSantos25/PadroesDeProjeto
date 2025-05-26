@@ -1,0 +1,64 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+Generated_Code/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Coverlet
+coverage.*
+
+# NUnit
+TestResult.xml
+TestResult-*.xml
+
+# Build logs
+*.log
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*.Build.cs
+*.dbmdl
+*.bak
+*.cache
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.vsp
+*.vspscc
+*.vssscc
+*.ncb
+*.sdf
+*.suo
+*.sln.docstates
+*.user
+*.unsuccessfulbuild
+
+# Others
+_ReSharper*/

@@ -4,33 +4,27 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TrabalhoDesignPatterns.WebAPI.Services.States;
 
 namespace State_Solution_2.domains.state
 {
-    public class PagoSate : State
-    {
-        private Pedido pedido;
+	public class PagoState : IPedidoState
+	{
+		public IPedidoState CancelarPedido()
+		{
+			return new CanceladoState();
+		}
 
-        public PagoSate(Pedido pedido)
-        {
-            this.pedido = pedido;
-        }
+		public IPedidoState DespacharPedido()
+		{
+			return new EnviadoState();
+		}
 
-        void State.cancelarPedido()
-        {
-           // this.pedido.estadoAtual = new CanceladoState(pedido);
-        }
-
-        void State.despacharPedido()
-        {
-         //   this.pedido.estadoAtual = new EnviadoState(pedido);
-        }
-
-        void State.sucessoAoPagar()
-        {
-            throw new Exception("Operacao não suportada, pedido já foi pago");
-        }
-    }
+		public IPedidoState SucessoAoPagar()
+		{
+			throw new Exception("Operação não suportada, o pedido já foi pago");
+		}
+	}
 
 
 }

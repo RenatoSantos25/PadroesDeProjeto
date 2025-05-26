@@ -1,18 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\PadroesDeProjeto\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\aluno\\documents\\padroesdeprojeto\\backend\\objects\\enum\\frete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\services\\strategy\\ifrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\strategy\\ifrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\services\\strategy\\freteterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\strategy\\freteterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\services\\strategy\\freteaereo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\strategy\\freteaereo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\objects\\model\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:objects\\model\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\objects\\enum\\frete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:objects\\enum\\frete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\aluno\\documents\\padroesdeprojeto\\backend\\services\\statepedido\\aguardandopagamentostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\services\\statepedido\\pagostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\statepedido\\pagostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\services\\statepedido\\enviadostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\statepedido\\enviadostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\services\\statepedido\\aguardandopagamentostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\statepedido\\aguardandopagamentostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\aluno\\documents\\padroesdeprojeto\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|c:\\users\\renato\\documents\\fatec\\padroesprojeto\\padroesdeprojeto\\backend\\services\\statepedido\\canceladostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFB2972-1F5A-4C0B-A209-83B1B6181DA2}|PadroesDeProjeto.csproj|solutionrelative:services\\statepedido\\canceladostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +54,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T01:12:02.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFrete.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\Strategy\\IFrete.cs",
+              "RelativeDocumentMoniker": "Services\\Strategy\\IFrete.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\Strategy\\IFrete.cs",
+              "RelativeToolTip": "Services\\Strategy\\IFrete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:09:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FreteTerrestre.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\Strategy\\FreteTerrestre.cs",
+              "RelativeDocumentMoniker": "Services\\Strategy\\FreteTerrestre.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\Strategy\\FreteTerrestre.cs",
+              "RelativeToolTip": "Services\\Strategy\\FreteTerrestre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:09:20.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FreteAereo.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\Strategy\\FreteAereo.cs",
+              "RelativeDocumentMoniker": "Services\\Strategy\\FreteAereo.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\Strategy\\FreteAereo.cs",
+              "RelativeToolTip": "Services\\Strategy\\FreteAereo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:09:10.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:57:44.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Objects\\Model\\Pedido.cs",
+              "RelativeDocumentMoniker": "Objects\\Model\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Objects\\Model\\Pedido.cs",
+              "RelativeToolTip": "Objects\\Model\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:07:24.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PagoState.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\statePedido\\PagoState.cs",
+              "RelativeDocumentMoniker": "Services\\statePedido\\PagoState.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\statePedido\\PagoState.cs",
+              "RelativeToolTip": "Services\\statePedido\\PagoState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:05:18.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnviadoState.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\statePedido\\EnviadoState.cs",
+              "RelativeDocumentMoniker": "Services\\statePedido\\EnviadoState.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\statePedido\\EnviadoState.cs",
+              "RelativeToolTip": "Services\\statePedido\\EnviadoState.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:05:00.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CanceladoState.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\statePedido\\CanceladoState.cs",
+              "RelativeDocumentMoniker": "Services\\statePedido\\CanceladoState.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\statePedido\\CanceladoState.cs",
+              "RelativeToolTip": "Services\\statePedido\\CanceladoState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:02:36.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Frete.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PadroesDeProjeto\\Backend\\Objects\\Enum\\Frete.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Objects\\Enum\\Frete.cs",
               "RelativeDocumentMoniker": "Objects\\Enum\\Frete.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\PadroesDeProjeto\\Backend\\Objects\\Enum\\Frete.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Objects\\Enum\\Frete.cs",
               "RelativeToolTip": "Objects\\Enum\\Frete.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T20:16:44.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "AguardandoPagamentoState.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PadroesDeProjeto\\Backend\\Services\\statePedido\\AguardandoPagamentoState.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\statePedido\\AguardandoPagamentoState.cs",
               "RelativeDocumentMoniker": "Services\\statePedido\\AguardandoPagamentoState.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\PadroesDeProjeto\\Backend\\Services\\statePedido\\AguardandoPagamentoState.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\PadroesProjeto\\PadroesDeProjeto\\Backend\\Services\\statePedido\\AguardandoPagamentoState.cs",
               "RelativeToolTip": "Services\\statePedido\\AguardandoPagamentoState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T17:03:34.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\PadroesDeProjeto\\Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\PadroesDeProjeto\\Backend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:57:44.019Z"
+              "WhenOpened": "2025-05-12T17:03:34.672Z",
+              "EditorCaption": ""
             }
           ]
         }
